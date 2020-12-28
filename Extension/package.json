@@ -1467,7 +1467,7 @@
     "@types/minimatch": "^3.0.3",
     "escape-string-regexp": "1.0.5",
     "http-proxy-agent": "~2.1.0",
-    "https-proxy-agent": "~2.2.0",
+    "https-proxy-agent": "~2.2.3",
     "jsonc-parser": "^1.0.0",
     "minimatch": "~3.0.4",
     "mkdirp": "~0.5.1",
